@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from './components/Navbar/Navbar'
 import {Route, Routes} from 'react-router-dom'
-import Home from './Pages/Home/Home'
+import Home from './Pages/Home/Home.jsx'
 import Video from './Pages/Video/Video.jsx'
 const App = () => {
 
