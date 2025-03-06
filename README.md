@@ -1,1 +1,1 @@
-this is a clone of youtube landing page which uses youtube data api to fetch videos i built this while i was learning React js
+this is a clone of youtube landing page which uses youtube data api to fetch videos. I built this while I was learning React js
